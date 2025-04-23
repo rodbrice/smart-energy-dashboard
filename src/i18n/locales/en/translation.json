@@ -1,0 +1,25 @@
+{
+    "dashboard": "Dashboard",
+    "insights": "Insights",
+    "energy_consumption": "Energy Consumption",
+    "by_hour": "by hour",
+    "by_day": "by day",
+    "by_month": "by month",
+    "consumption_comparison": "Consumption Comparison",
+    "energy_tips": "Energy Saving Tips",
+    "tips": [
+      "Consider turning off standby devices at night.",
+      "Use natural light during the day whenever possible.",
+      "Avoid using electric heaters during peak hours.",
+      "Turn off the lights when leaving a room."
+    ],
+    "toggle_theme": "Toggle Theme",
+    "view_type": "View Type",
+    "hour": "Hour",
+    "day": "Day",
+    "month": "Month",
+    "average": "Average",
+    "total": "Total",
+    "peak": "Peak"
+  }
+  

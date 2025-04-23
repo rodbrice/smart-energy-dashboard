@@ -1,0 +1,26 @@
+{
+  "dashboard": "Painel de Controle",
+  "insights": "Estatísticas",
+  "energy_consumption": "Consumo de Energia",
+  "by_hour": "por hora",
+  "by_day": "por dia",
+  "by_month": "por mês",
+  "consumption_comparison": "Comparativo de Consumo",
+  "energy_tips": "Dicas de Economia de Energia",
+  "tips": [
+    "Considere desligar os aparelhos em standby durante a noite.",
+    "Utilize luz natural durante o dia sempre que possível.",
+    "Evite usar o aquecedor elétrico durante o pico de consumo.",
+    "Desligue as luzes ao sair de um cômodo."
+  ],
+  "toggle_theme": "Alternar tema",
+  "view_type": "Tipo de visualização",
+  "hour": "Hora",
+  "day": "Dia",
+  "month": "Mês",
+  "average": "Média",
+  "total": "Total",
+  "peak": "Pico"
+  
+  
+}

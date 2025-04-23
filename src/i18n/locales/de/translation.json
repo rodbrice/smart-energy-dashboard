@@ -1,0 +1,25 @@
+{
+    "dashboard": "Übersicht",
+    "insights": "Einblicke",
+    "energy_consumption": "Energieverbrauch",
+    "by_hour": "pro Stunde",
+    "by_day": "pro Tag",
+    "by_month": "pro Monat",
+    "consumption_comparison": "Verbrauchsvergleich",
+    "energy_tips": "Energiespartipps",
+    "tips": [
+      "Geräte im Standby-Modus nachts ausschalten.",
+      "Tageslicht so oft wie möglich nutzen.",
+      "Elektrische Heizgeräte während der Spitzenzeiten vermeiden.",
+      "Licht beim Verlassen des Raumes ausschalten."
+    ],
+    "toggle_theme": "Thema wechseln",
+    "view_type": "Ansichtstyp",
+    "hour": "Stunde",
+    "day": "Tag",
+    "month": "Monat",
+    "average": "Durchschnitt",
+    "total": "Gesamt",
+    "peak": "Spitze"
+  }
+  

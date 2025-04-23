@@ -1,0 +1,25 @@
+{
+    "dashboard": "Tableau de bord",
+    "insights": "Statistiques",
+    "energy_consumption": "Consommation d'énergie",
+    "by_hour": "par heure",
+    "by_day": "par jour",
+    "by_month": "par mois",
+    "consumption_comparison": "Comparaison de la consommation",
+    "energy_tips": "Conseils pour économiser",
+    "tips": [
+      "Éteignez les appareils en veille la nuit.",
+      "Utilisez la lumière naturelle pendant la journée.",
+      "Évitez d'utiliser le chauffage électrique aux heures de pointe.",
+      "Éteignez les lumières en quittant une pièce."
+    ],
+    "toggle_theme": "Changer le thème",
+    "view_type": "Type de vue",
+    "hour": "Heure",
+    "day": "Jour",
+    "month": "Mois",
+    "average": "Moyenne",
+    "total": "Total",
+    "peak": "Pic"
+  }
+  
