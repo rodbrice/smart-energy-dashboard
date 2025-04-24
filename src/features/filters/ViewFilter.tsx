@@ -25,6 +25,7 @@ const ViewFilter = () => {
         onChange={handleChange}
         color="primary"
         size="small"
+        sx={{flexWrap: 'wrap'}}
       >
         <ToggleButton value="hour">{t('hour')}</ToggleButton>
         <ToggleButton value="day">{t('day')}</ToggleButton>

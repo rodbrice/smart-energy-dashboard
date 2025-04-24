@@ -33,6 +33,7 @@ const InsightsPanel = () => {
             series={chartSeries}
             type="bar"
             height={300}
+            sx={{flexWrap: 'wrap'}}
           />
         </CardContent>
       </Card>

@@ -10,7 +10,11 @@ function App() {
     <Box sx={{ display: 'flex' }}>
       <Navbar />
       <Sidebar />
-      <Box component="main" sx={{ flexGrow: 1, p: 3, paddingTop: '80px' }}>
+      <Box component="main" sx={{
+          flexGrow: 1,
+          p: { xs: 2, sm: 3 },
+          mt: { xs: 7, sm: 8 },
+        }}>
         <Routes>
           <Route path="/" element={<Dashboard />} />
           <Route path="/insights" element={<Insights />} />
